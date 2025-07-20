@@ -1,0 +1,21 @@
+{
+	"name": "lookup_file",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "nyc_datalake",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "look_up.json",
+				"folderPath": "parameter",
+				"fileSystem": "bronze"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
