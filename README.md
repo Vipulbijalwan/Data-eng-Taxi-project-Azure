@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Azure Data Engineering Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: auto;
-      padding: 40px;
-      background-color: #f8f9fa;
-    }
-    h1, h2, h3 {
-      color: #0a66c2;
-    }
-    code, pre {
-      background-color: #eee;
-      padding: 5px;
-      border-radius: 4px;
-    }
-    .folder-structure {
-      background: #f1f1f1;
-      padding: 10px;
-      font-family: monospace;
-      border-left: 4px solid #0a66c2;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>🚀 Azure Data Engineering Project</h1>
 
